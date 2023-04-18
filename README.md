@@ -1,4 +1,4 @@
-# holiday_backend
+# holiday backend with fastapi
 
 Install packages with pip:
 
